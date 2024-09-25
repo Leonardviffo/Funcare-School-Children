@@ -1,0 +1,7 @@
+.mobile {
+    display: none;
+}
+
+.mobile.muncul {
+    display: block;
+}
